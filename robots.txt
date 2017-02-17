@@ -9,4 +9,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /fancybox/
 
-Sitemap: https://adamzfc.com/sitemap.xml
+Sitemap: http://adamzfc.com/sitemap.xml
